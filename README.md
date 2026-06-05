@@ -16,18 +16,16 @@
 
 ## 👩‍💻 About Me
 
-```python
-saboora = {
-    "name"       : "Saboora Khalil",
-    "location"   : "Karachi, Sindh, Pakistan 🇵🇰",
-    "education"  : "BS Political Science — FUUAST, Karachi (2020–2024) | Grade: B",
-    "roles"      : ["Python Data Analyst", "ML App Developer",
-                    "SEO Specialist", "Digital Marketing Expert"],
-    "status"     : "Open to Work 🟢 — On-site | Hybrid | Remote",
-    "connections": "500+",
-    "ask_me"     : ["Python", "Machine Learning", "Streamlit", "SEO", "Data Analysis"],
-}
-```
+Hi! I'm **Saboora Khalil**, a passionate **Python Data Analyst** and **Machine Learning App Developer** based in **Karachi, Sindh, Pakistan** 🇵🇰
+
+I graduated with a **BS in Political Science & Government** from **Federal Urdu University of Arts, Science & Technology (FUUAST), Karachi** (2020–2024).
+
+I love building end-to-end ML web applications using **Python, Streamlit, Pandas, and Scikit-learn**, and I also have strong experience in **SEO, Digital Marketing, and B2B Growth strategies**.
+
+- 🟢 **Open to Work** — On-site | Hybrid | Remote (Pakistan)
+- 🤝 **500+ connections** on LinkedIn
+- 💬 **Ask me about:** Python · Machine Learning · Streamlit · SEO · Data Analysis
+- 🌱 Currently exploring **Advanced ML, Deep Learning & Cloud Deployment**
 
 ---
 
@@ -180,12 +178,13 @@ saboora = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saboorawdpdata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saboorawdpdata&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saboorawdpdata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&hide=stars)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saboorawdpdata&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
 
-<img src="https://streak-stats.demolab.com/?user=saboorawdpdata&theme=tokyonight&hide_border=true" width="60%"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=saboorawdpdata&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saboorawdpdata&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
