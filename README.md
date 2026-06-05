@@ -66,7 +66,7 @@ I love building end-to-end ML web applications using **Python, Streamlit, Pandas
 
 | Period | Role | Company |
 |--------|------|---------|
-| 🟢 May 2025 – Jul 2025 | **Search Engine Optimization Executive** | Vorson PVT Ltd |
+| May 2025 – Jul 2025 | **Search Engine Optimization Executive** | Vorson PVT Ltd |
 | Nov 2024 – Apr 2025 | **Jr SEO Executive** | Vorson PVT Ltd |
 | Sep 2024 – Jan 2025 | **SEO Intern** | Contechtive · Full-time |
 | Aug 2024 – Oct 2024 | **Social Media Marketing Intern** | Legit AI Solutions · Remote |
@@ -176,18 +176,16 @@ I love building end-to-end ML web applications using **Python, Streamlit, Pandas
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saboorawdpdata&theme=tokyo-night&hide_border=true&area=true)
