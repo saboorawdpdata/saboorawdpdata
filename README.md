@@ -176,13 +176,19 @@ I love building end-to-end ML web applications using **Python, Streamlit, Pandas
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saboorawdpdata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&hide=stars)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saboorawdpdata&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=saboorawdpdata&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saboorawdpdata&theme=tokyo-night&hide_border=true&area=true)
 
